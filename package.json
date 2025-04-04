@@ -1,0 +1,21 @@
+{
+  "name": "bootcamp",
+  "version": "1.0.0",
+  "description": "Project abouy bootcamp automation",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilbertrivas-ad/bootcampPlaywrigth.git"
+  },
+  "author": "Gilbert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilbertrivas-ad/bootcampPlaywrigth/issues"
+  },
+  "homepage": "https://github.com/gilbertrivas-ad/bootcampPlaywrigth#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.0"
+  }
+}
