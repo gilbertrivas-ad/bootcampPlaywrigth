@@ -16,6 +16,7 @@
   "homepage": "https://github.com/gilbertrivas-ad/bootcampPlaywrigth#readme",
   "devDependencies": {
     "@playwright/test": "^1.51.1",
-    "@types/node": "^22.14.0"
+    "@types/node": "^22.14.0",
+    "playwright-bdd": "^8.2.1"
   }
 }
